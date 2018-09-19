@@ -1,4 +1,4 @@
-## Spotmentor Assignment
+### Assignment
 
 ### Your Task
 
